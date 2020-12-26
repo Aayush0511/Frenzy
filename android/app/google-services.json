@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279621426963",
+    "firebase_url": "https://frenzy-22ce5.firebaseio.com",
+    "project_id": "frenzy-22ce5",
+    "storage_bucket": "frenzy-22ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279621426963:android:eba7d95ab447f8fcdac4e6",
+        "android_client_info": {
+          "package_name": "com.example.frenzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279621426963-p4noah6m2ot74t3uqsdj0vdidlgm6qc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frenzy",
+            "certificate_hash": "c18c865e01b412a673bb4351d2443acccdb752f6"
+          }
+        },
+        {
+          "client_id": "279621426963-i6rhmr8t21ted3evclbf1gu7tc0tv0f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6pdA3WBggo-TZ9_sv9Dk5hrE0AcDYZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279621426963-i6rhmr8t21ted3evclbf1gu7tc0tv0f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
